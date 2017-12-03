@@ -1,0 +1,169 @@
+@media only screen and (max-width: 412px) {
+	.homepage .slider-2 .space {
+	    height: 298px;
+	}
+}
+@media only screen and (max-width: 375px) {
+	.all-cate .cate .all-product.shampoo .item {
+	  width: 85px;
+	  top: 65px;
+	}
+	.all-cate .cate .all-product.shampoo .item.intense {
+	  left: 15px;
+	}
+	.all-cate .cate .all-product.shampoo .item.motion {
+	  left: 88px;
+	}
+	.all-cate .cate .all-product.shampoo .item.luxury {
+	  left: 160px;
+	}
+	.all-cate .cate .all-product.perfume .item {
+	  width: 110px;
+	  top: 95px;
+	}
+	.all-cate .cate .all-product.perfume .item.intense {
+	  left: 15px;
+	}
+	.all-cate .cate .all-product.perfume .item.motion {
+	  left: 100px;
+	}
+	.all-cate .cate .all-product.perfume .item.luxury {
+	  left: 185px;
+	}
+	.all-cate .cate .all-product.spray .item {
+	  width: 96px;
+	  top: 65px;
+	}
+	.all-cate .cate .all-product.spray .item.intense {
+	  left: 15px;
+	}
+	.all-cate .cate .all-product.spray .item.motion {
+	  left: 74px;
+	}
+	.all-cate .cate .all-product.spray .item.luxury {
+	  left: 133px;
+	}
+	.all-cate .cate .all-product.roller .item {
+	  width: 90px;
+	  top: 90px;
+	}
+	.all-cate .cate .all-product.roller .item.intense {
+	  left: 28px;
+	}
+	.all-cate .cate .all-product.roller .item.motion {
+	  left: 89px;
+	}
+	.all-cate .cate .all-product.roller .item.luxury {
+	  left: 150px;
+	}
+}
+@media only screen and (max-width: 360px) {
+	.homepage .slider-1 .conent {
+	    margin-top: -145px;
+	}
+	.homepage .slider-2 .space {
+	    height: 308px;
+	}
+	.all-cate .cate .all-product.shampoo .item {
+	  width: 80px;
+	  top: 65px;
+	}
+	.all-cate .cate .all-product.shampoo .item.intense {
+	  left: 15px;
+	}
+	.all-cate .cate .all-product.shampoo .item.motion {
+	  left: 81px;
+	}
+	.all-cate .cate .all-product.shampoo .item.luxury {
+	  left: 148px;
+	}
+	.all-cate .cate .all-product.perfume .item {
+	  width: 80px;
+	  top: 95px;
+	}
+	.all-cate .cate .all-product.perfume .item.intense {
+	  left: 15px;
+	}
+	.all-cate .cate .all-product.perfume .item.motion {
+	  left: 81px;
+	}
+	.all-cate .cate .all-product.perfume .item.luxury {
+	  left: 148px;
+	}
+	
+	.all-cate .cate .all-product.spray .item {
+	  width: 75px;
+	  top: 70px;
+	}
+	.all-cate .cate .all-product.spray .item.intense {
+	  left: 28px;
+	}
+	.all-cate .cate .all-product.spray .item.motion {
+	  left: 73px;
+	}
+	.all-cate .cate .all-product.spray .item.luxury {
+	  left: 120px;
+	}
+
+	.all-cate .cate .all-product.roller .item {
+	  width: 70px;
+	  top: 70px;
+	}
+	.all-cate .cate .all-product.roller .item.intense {
+	  left: 28px;
+	}
+	.all-cate .cate .all-product.roller .item.motion {
+	  left: 74px;
+	}
+	.all-cate .cate .all-product.roller .item.luxury {
+	  left: 120px;
+	}
+
+	.all-cate .cate .all-product.wax .item {
+	  width: 130px;
+	  top: 70px;
+	}
+	.all-cate .cate .all-product.wax .item.intense {
+	  left: 15px;
+	}
+	.all-cate .cate .all-product.wax .item.motion {
+	  top: 10px;
+	  left: 74px;
+	}
+	.all-cate .cate .all-product.wax .item.luxury {
+	  left: 135px;
+	}
+
+	.all-cate .cate .all-product.gel .item {
+	  width: 90px;
+	  top: 75px;
+	}
+	.all-cate .cate .all-product.gel .item.intense {
+	  left: 50px;
+	}
+	.all-cate .cate .all-product.gel .item.luxury {
+	  left: 130px;
+	}
+	
+	.all-cate .cate .all-product.soap .item {
+	  width: 190px;
+	  top: 75px;
+	}
+	.all-cate .cate .all-product.soap .item.intense {
+	  left: 50px;
+	}
+	.products .left .sign {
+		width: 80%;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.button {
+		padding: 5px 10px;
+	}
+	.homepage .slider-1 .conent {
+	    margin-top: -122px;
+	}
+	.all-cate-title {
+		top: 15px;
+	}
+}

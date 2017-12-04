@@ -566,7 +566,7 @@ a:focus, a:active {
 .homepage .slider-2 {
   width: 100%;
   height: 100%;
-  background: url('../images/background-2.jpg');
+  background: url('../images/background-2.png');
   background-position: top left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -617,6 +617,7 @@ a:focus, a:active {
   text-align: center;
   display: block;
   margin: 40px 0 60px 0; 
+  margin-bottom: 250px;
 }
 #firstPage .bx-controls-direction a {
   top: 50%;
@@ -639,10 +640,10 @@ a:focus, a:active {
 .all-cate-title {
   position: absolute;
   color: #fff;
-  font-size: 26px;
+  font-size: 22px;
   font-family: 'Gotham Bold', Arial, "Helvetica Neue", Helvetica, sans-serif;
   text-align: right;
-  top: 30px;
+  top: 15px;
   right: 15px;
   width: 100%;
 }
@@ -777,7 +778,7 @@ a:focus, a:active {
   text-align: center;
   color: #fff;
   font-family: 'Gotham Light', Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   position: relative;
   z-index: 10;
 }
@@ -796,14 +797,14 @@ a:focus, a:active {
 .products .right .name {
   margin-top: -80px;
   font-family: "Gotham Bold", Arial, Helvetica, sans-serif;
-  font-size: 23px;
+  font-size: 14px;
   line-height: 1.2;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   color: #fff;
 }
 .products .right .text {
   font-family: "Gotham Light", Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 14px;
   line-height: 1.3;
   margin-bottom: 30px;
   text-align: justify;
@@ -931,13 +932,10 @@ a:focus, a:active {
 .products.motion  .left.shower .sign {
   margin-bottom: -50px;
 }
-.products.motion  .left.shower .image {
-  /*margin-left: -40px;*/
-}
 .products.motion  .left.spray .sign {
   margin-bottom: -95px;
 }
-.products.motion  .left.spray .sign .image {
+.products.motion  .left.spray .image {
     
 }
 .products.motion  .left.wax .image {
@@ -971,4 +969,209 @@ a:focus, a:active {
 .products.motion  .left.shampoo.shampoo-180 .image {
   /*margin-left: -20px;*/
 }
+
+.products.luxury  .left.shampoo.shampoo-180 .sign {
+  margin-bottom: -150px;
+}
+.products.luxury  .left.shampoo.shampoo-180 .image {
+  margin-left: -42px;
+}
+.products.luxury  .left.shampoo .sign {
+  margin-bottom: -60px;
+}
+.products.luxury  .left.shampoo .image {
+  margin-left: -20px;
+}
+.products.luxury  .left.gel .sign {
+  margin-bottom: -60px;
+}
+.products.luxury  .left.gel .image {
+  margin-left: -20px;
+  margin-top: -185px;
+}
+.products.luxury  .left.roller .sign {
+  margin-bottom: -175px;
+}
+.products.luxury .right.roller .name {
+  margin-top: 85px
+}
+.products.luxury  .left.roller .image {
+  margin-left: -30px;
+}
+.products.luxury  .left.wax .image {
+    margin-top: -110px;
+    margin-bottom: -70px;
+}
+.products.luxury  .left.perfume .sign {
+  margin-bottom: -160px;
+}
+.products.luxury  .left.perfume .image {
+  margin-left: -30px;
+}
+.products.luxury  .left.shower.shower-180 .sign {
+  margin-bottom: -140px;
+}
+.products.luxury  .left.shower .image {
+  margin-left: -40px;
+}
+.products.luxury  .left.shower .sign {
+  margin-bottom: -70px;
+}
+.products.luxury  .left.spray .sign {
+  margin-bottom: -80px;
+}
+.products.luxury  .left.spray .image {
+  margin-left: -40px;
+  margin-bottom: -20px;
+}
+
+.products.intense  .left.shampoo.shampoo-180 .sign {
+  margin-bottom: -150px;
+}
+.products.intense  .left.shampoo.shampoo-180 .image {
+  margin-left: -42px;
+}
+.products.intense  .left.shampoo .sign {
+  margin-bottom: -60px;
+}
+.products.intense  .left.shampoo .image {
+  margin-left: -30px;
+}
+.products.intense  .left.gel .sign {
+  margin-bottom: -60px;
+}
+.products.intense  .left.gel .image {
+  margin-left: -20px;
+  margin-top: -160px;
+}
+.products.intense  .left.roller .sign {
+  margin-bottom: -165px;
+}
+.products.intense  .left.roller .image {
+  margin-left: -20px;
+}
+.products.intense .right.roller .name {
+  margin-top: 85px
+}
+.products.intense  .left.roller.roller-25 .sign {
+  margin-bottom: -250px;
+}
+.products.intense .right.roller.roller-25 .name {
+  margin-top: 85px
+}
+.products.intense  .left.wax .image {
+    margin-top: -110px;
+    margin-bottom: -70px;
+}
+.products.intense  .left.perfume .sign {
+  margin-bottom: -160px;
+}
+.products.intense  .left.perfume .image {
+  margin-left: -20px;
+}
+.products.intense  .left.shower.shower-180 .sign {
+  margin-bottom: -145px;
+}
+.products.intense  .left.shower .image {
+  margin-left: -30px;
+}
+.products.intense  .left.shower .sign {
+  margin-bottom: -60px;
+}
+.products.intense  .left.spray .sign {
+  margin-bottom: -110px;
+}
+.products.intense  .left.spray .image {
+  margin-left: -30px;
+  margin-bottom: -10px;
+}
+.products.intense  .left.soap .sign {
+  margin-bottom: -210px;
+}
+.products.intense  .left.soap .image {
+  margin-left: -20px;
+}
 /* End Product */
+
+/*cate detail*/
+.slider-product {
+  padding-top: 80px;
+}
+.slider-product .cate-detail-title {
+  font-size: 25px;
+  color: #fff;
+  font-family: 'Gotham bold', Arial, Helvetica, sans-serif;
+  text-align: center;
+  line-height: 1.2;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+.slider-product .all-product .item {
+  text-align: center;
+  position: relative;
+  margin-bottom: 50px;
+  background: url(../images/cate-detail/background.png) no-repeat center bottom;
+  -webkit-transition: all .25s ease-in-out;
+     -moz-transition: all .25s ease-in-out;
+      -ms-transition: all .25s ease-in-out;
+       -o-transition: all .25s ease-in-out;
+          transition: all .25s ease-in-out;
+}
+.cate-detail .slider-product .all-product .item .images {
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1; /* Fix for IE7 */
+  *display: inline; /* Fix for IE7 */
+  width: 200px;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: -40px;
+}
+.cate-detail .slider-product .all-product .item img {
+  display: block;
+  width: 100%;
+}
+.cate-detail .slider-product .all-product .item .images .thumbnail-hover  {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  -webkit-transition: all .25s ease-in-out;
+     -moz-transition: all .25s ease-in-out;
+      -ms-transition: all .25s ease-in-out;
+       -o-transition: all .25s ease-in-out;
+          transition: all .25s ease-in-out;
+}
+.cate-detail .slider-product .all-product .item:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari */
+  transform: scale(1.1);
+}
+.cate-detail .slider-product .all-product .item:hover .thumbnail-hover  {
+  opacity: 1;
+}
+.cate-detail .slider-product .all-product .item .tooltip {
+  width: 100%;
+  position: absolute;
+  top: -26px;
+  left: 0;
+  text-align: center;
+  font-size: 15px;
+  color: #fff;
+  font-family: 'Gotham bold', Arial, Helvetica, sans-serif;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.cate-detail .slider-product .all-product .item .images:hover .thumbnail {
+    display: block;
+}
+.slider-product.shower .all-product .item {
+  margin-bottom: 90px;
+}
+.cate-detail .slider-product .all-product.wax .item .images {
+  width: 300px;
+  margin-top: -156px;
+  margin-bottom: -60px;
+}
+/*End cate detail*/

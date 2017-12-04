@@ -13,6 +13,12 @@
     <link rel="stylesheet" href="js/bx-slider/jquery.bxslider.css">
     <script src="js/bx-slider/jquery.bxslider.min.js""></script>
     <!-- End bxslider -->
+    <!-- slick -->
+	<link rel="stylesheet" href="js/slick/slick.css">
+	<link rel="stylesheet" href="js/slick/slick-theme.css">
+	<script src="js/slick/slick.min.js""></script>
+	<!-- End slick -->
+
 	<!-- Video -->
 	<link rel="stylesheet" href="js/video/video.css">
 	<script src="js/video/video.js""></script>

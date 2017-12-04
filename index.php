@@ -14,7 +14,7 @@
 			  					<img src="images/cate-detail/xit-toan-than/intense-hover.png" alt="" class="thumbnail-hover">
 			  				</a>
 						</div>
-						<div class="item" sign-class=".motion-sign">
+						<div class="item active" sign-class=".motion-sign">
 							<a href="#" class="images">
 			  					<img src="images/cate-detail/xit-toan-than/motion.png" alt="" class="thumbnail">
 			  					<img src="images/cate-detail/xit-toan-than/motion-hover.png" alt="" class="thumbnail-hover">
@@ -35,7 +35,7 @@
 			  				<img src="images/intense/sign.png" alt="">
 			  			</div>
 					</div>
-					<div class="sign motion-sign">
+					<div class="sign motion-sign active">
 						<h4>X-MEN FOR BOSS MOTION</h4>
 			  			<p>"Tôi tạo ra Motion như một loại cocktail phá cách, kết hợp nốt hương trầm đầy nội lực từ gỗ Đàn Hương cùng sự xanh mát của Citrus để phác họa một người đàn ông thành công, chủ động - luôn biết cách tự tạo ra cơ hội cho chính mình."</p>
 			  			<div class="image">
@@ -67,24 +67,30 @@
 			</div>
 		</div>
 		<script>
-			$(document).ready(function(){
-			  $('.slider').bxSlider({
-			  	pager: false
-			  });
+			$(function(){
+				$('.slider').slick({
+		            dots: true,
+		            slidesToShow: 1,
+		            slidesToScroll: 1,
+		            autoplay: true,
+		            autoplaySpeed: 5000,
+		            adaptiveHeight: true,
+		            prevArrow: '.arrow-left',
+	            	nextArrow: '.arrow-right',
+		        });
+		        $('.slider').on('afterChange', function(event, slick, currentSlide){
+					$(this).find('.slider-product').eq()
+				});
 			});
 		</script>
+
 	</div>
 <?php include('footer.php') ?>
 <script>
 		$(document).ready(function() {
-			// $('#fullpage').fullpage({
-			// 	menu: '#menu',
-			// 	scrollingSpeed: 1000,
-			// 	css3: true,
-			// });
-			$('.homepage .slider-1 .products .item').hover(function() {
+			$('.homepage .slider-1 .product .item').hover(function() {
 				/* Stuff to do when the mouse enters the element */
-				$('.homepage .slider-1 .products .item').each(function(index, el) {
+				$('.homepage .slider-1 .product .item').each(function(index, el) {
 					$(this).removeClass('active');
 				});
 				$(this).addClass('active');
@@ -97,13 +103,13 @@
 				$(clss).addClass('active');
 			}, function() {
 				/* Stuff to do when the mouse leaves the element */
-				$('.homepage  .slider-1 .products .item').each(function(index, el) {
-					if($(this).hasClass('active')) {
-						$(this).removeClass('active')
-						var clss = $(this).attr('sign-class');
-						$(clss).removeClass('active')
-					}
-				});
+				// $('.homepage  .slider-1 .product .item').each(function(index, el) {
+				// 	if($(this).hasClass('active')) {
+				// 		$(this).removeClass('active')
+				// 		var clss = $(this).attr('sign-class');
+				// 		$(clss).addClass('active')
+				// 	}
+				// });
 			});
 		});
 </script>

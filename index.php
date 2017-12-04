@@ -74,6 +74,7 @@
 		            slidesToScroll: 1,
 		            autoplay: true,
 		            autoplaySpeed: 5000,
+		            speed: 600,
 		            adaptiveHeight: true,
 		            prevArrow: '.arrow-left',
 	            	nextArrow: '.arrow-right',

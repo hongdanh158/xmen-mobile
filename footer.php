@@ -33,16 +33,7 @@
                 <li><a href="javascript:void(0)">X-Men boss</a>
                     <ul>
                         <li class="test"><a href="index.php">Dẫn lỗi thành công</a>
-                        <li class="test"><a href="javascript:void(0)">Bộ sản phẩm</a>
-                            <ul>
-                                <li><a href="dau-goi-nuoc-hoa.php">Dầu gội đầu nước hoa</a></li>
-                                <li><a href="sua-tam-nuoc-hoa.php">Sữa tắm nước hoa</a></li>
-                                <li><a href="xit-toan-than.php">Xịt toàn thân</a></li>
-                                <li><a href="lan-khu-mui.php">Lăn khử mùi</a></li>
-                                <li><a href="nuoc-hoa.php">Nước hoa</a></li>
-                                <li><a href="san-pham-tao-kieu-toc.php">Sản Phẩm Tạo Kiểu</a></li>
-                            </ul>
-                        </li>
+                        <li class="test"><a href="all-cate.php">Bộ sản phẩm</a></li>
                     </ul>
                 </li>
             </ul>

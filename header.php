@@ -26,8 +26,8 @@
 
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/hover.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/style.css?t=2">
+	<link rel="stylesheet" href="css/responsive.css?t=2">
 </head>
 <body>
     <div class="o-nav-trigger">

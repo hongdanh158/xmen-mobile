@@ -1,5 +1,9 @@
 <?php include('header.php') ?>
+
+
 	<div class="section" id="firstPage">
+		<a href="#" class="slick-arrow arrow-left"></a>
+		<a href="#" class="slick-arrow arrow-right"></a>
 		<div class="homepage slider">
 			<div class="slider-1 first-slider">
 				<div class="talent">
@@ -74,7 +78,7 @@
 		            slidesToScroll: 1,
 		            autoplay: true,
 		            autoplaySpeed: 5000,
-		            speed: 600,
+		            speed: 200,
 		            adaptiveHeight: true,
 		            prevArrow: '.arrow-left',
 	            	nextArrow: '.arrow-right',

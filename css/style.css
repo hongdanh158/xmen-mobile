@@ -1175,3 +1175,27 @@ a:focus, a:active {
   margin-bottom: -60px;
 }
 /*End cate detail*/
+.slick-arrow {
+  height: 28px;
+  width: 20px;
+  background: #fff;
+  position: fixed;
+  top: 60%;
+  z-index: 999999;
+  background: url('../images/item.png') no-repeat;
+  opacity: 0.2;
+}
+.slick-arrow::hover {
+  cursor: pointer
+}
+.slick-arrow.arrow-left {
+  left: 10px;
+  background-position: -144px -47px;
+}
+.slick-arrow.arrow-right {
+  right: 10px;
+  background-position: -185px -47px;
+}
+.section {
+  position: relative;
+}

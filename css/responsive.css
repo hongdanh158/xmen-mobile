@@ -163,7 +163,24 @@
 	.homepage .slider-1 .conent {
 	    margin-top: -122px;
 	}
+	.homepage .slider-1 .talent {
+		margin-top: 20px;
+	}
+	.video-wrapper-inner .video .name {
+		font-size: 14px;
+	}
+	.caption-vd h4 {
+		font-size: 13px;
+		line-height: 1.2;
+	}
+	.caption .name, .caption .text {
+	    font-size: 14px;
+	}
 	.all-cate-title {
 		top: 15px;
+	}
+	.g-button .button {
+		width: 100%;
+		margin-bottom: 10px;
 	}
 }

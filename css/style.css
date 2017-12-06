@@ -586,7 +586,7 @@ a:focus, a:active {
   padding: 0 20px;
   width: 100%;
   color: #fff;
-  margin-top: -30px;
+  margin-top: 80px;
 }
 .homepage .slider-2 .content p {
   text-align: justify;
@@ -617,7 +617,7 @@ a:focus, a:active {
   text-align: center;
   display: block;
   margin: 40px 0 60px 0; 
-  margin-bottom: 250px;
+  margin-bottom: 180px;
 }
 #firstPage .bx-controls-direction a {
   top: 50%;

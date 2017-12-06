@@ -74,7 +74,7 @@
 		            dots: true,
 		            slidesToShow: 1,
 		            slidesToScroll: 1,
-		            autoplay: true,
+		            // autoplay: true,
 		            autoplaySpeed: 5000,
 		            speed: 200,
 		            adaptiveHeight: true,
@@ -221,7 +221,7 @@
 	    	$('.video-js').height(hVideo);
 	    }
 	    function resizeSlider() {
-	    	$('.slick-list').height($('.slider').height())
+	    	$('.slider-2').height($('.slider').height())
 	    }
 	});
 	var video = videojs("video-default", {

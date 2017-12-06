@@ -212,12 +212,16 @@
 	$(document).ready(function(){
 	    $(window).on('load resize',function(){
 	        resizeVideo();
+	        resizeSlider();
 	    });
 	    function resizeVideo() {
 	    	var wVideo = $('.video').width();
 	    	var hVideo = wVideo/2;
 	    	$('.video-js').width(wVideo);
 	    	$('.video-js').height(hVideo);
+	    }
+	    function resizeSlider() {
+	    	$('.slick-list').height($('.slider').height())
 	    }
 	});
 	var video = videojs("video-default", {

@@ -139,21 +139,21 @@
 	                            <h4>X-Men For Boss TVC - Bước Thành Bại</h4>
 	                            <h4 class="f-m">X-Men For Boss TVC - Bước Thành Bại </h4>
 	                        </div>
-	                    </li>
+	                    </li><!-- 
 	                    <li data-link="https://storage.googleapis.com/xmenmedia/video/4a89abcc-a989-4903-b812-1db0dced4830.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video2.jpg" class="nv2">
 	                        <div class="wp-img"><img src="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/thumb_video2.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">
 	                            <h4>Cách lập kế hoạch kinh doanh</h4>
 	                            <h4 class="f-m"> Cách lập kế hoạch kinh doanh</h4>
 	                        </div>
-	                    </li>
-	                    <li data-link="https://storage.googleapis.com/xmenmedia/video/2f5c7a97-1dba-4635-a241-2b0e4345d71d.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video3.jpg" class="nv3">
+	                    </li> -->
+	                    <!-- <li data-link="https://storage.googleapis.com/xmenmedia/video/2f5c7a97-1dba-4635-a241-2b0e4345d71d.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video3.jpg" class="nv3">
 	                        <div class="wp-img"><img src="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/thumb_video3.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">
 	                            <h4>Chào thành công 2015</h4>
 	                            <h4 class="f-m">Chào thành công 2015</h4>
 	                        </div>
-	                    </li>
+	                    </li> -->
 	                    <li data-link="https://storage.googleapis.com/xmenmedia/video/4acc7ca0-cf7f-4c2d-8bfb-a6b1ab400432.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video4.jpg" class="nv4">
 	                        <div class="wp-img"><img src="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/thumb_video4.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">
@@ -168,13 +168,13 @@
 	                            <h4 class="f-m"> Phong cách doanh nhân</h4>
 	                        </div>
 	                    </li>
-	                    <li data-link="https://storage.googleapis.com/xmenmedia/video/77614682-2218-4609-8234-60acf33b8124.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video6.jpg" class="nv6">
+	                    <!-- <li data-link="https://storage.googleapis.com/xmenmedia/video/77614682-2218-4609-8234-60acf33b8124.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video6.jpg" class="nv6">
 	                        <div class="wp-img"><img src="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/thumb_video6.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">
 	                            <h4>X-Men For Boss</h4>
 	                            <h4 class="f-m">X-Men For Boss</h4>
 	                        </div>
-	                    </li>
+	                    </li> -->
 	                </ul>
 				</div>
 			</div>

@@ -62,8 +62,8 @@
 					<h2 class="title">X-MEN FOR BOSS</h3>
 					<p class="text">“Thương hiệu chăm sóc cá nhân cao cấp dành riêng cho nam giới, với hương nước hoa được tạo bởi những nhà điều hương đẳng cấp thế giới, giúp khẳng định phong cách lịch lãm, sang trọng, đầy lôi cuốn của người đàn ông thành đạt.”</p>
 					<div class="buy clear">
-						<a href="#" class="button hvr-pulse-grow">Tìm hiểu thêm</a> &nbsp; &nbsp;
-						<a href="#" class="button hvr-pulse-grow">Mua ngay</a>
+						<a target="_blank" href="https://www.facebook.com/XmenForbossVietnam/" class="button hvr-pulse-grow">Tìm hiểu thêm</a> &nbsp; &nbsp;
+						<a target="_blank" href="http://www.lazada.vn/x-men-official-store/?utm_source=PartnerTraffic&utm_medium=WebsiteClick&utm_campaign=PRTTRF_PartnerTraffic_20171002_XMen_VN_XMenforBoss&utm_content=PRTTRF_PartnerTraffic_20171002_XMen__VN_XMenforBoss_Xmen_Official_Web_xxvpa002sn0ak0000&utm_term=xxvpa002sn0ak0000&adjust_tracker=xzsn11_5u7bln&adjust_campaign=PRTTRF_PartnerTraffic_20171002_XMen_VN_XMenforBoss&adjust_adgroup=xxvpa002sn0ak0000&adjust_creative=PRTTRF_PartnerTraffic_20171002_XMen__VN_XMenforBoss_Xmen_Official_Web&adjust_tracker_limit=100000" class="button hvr-pulse-grow">Mua ngay</a>
 					</div>
 				</div>
 			</div>
@@ -98,35 +98,41 @@
 						<h3 class="name name-2">DÁM HÀNH ĐỘNG - ĐỂ THÀNH CÔNG</h3>
 						<div class="text">Đứng trước những thời khắc quan trọng, đâu là quyết định sáng suốt? Từ bỏ hay Tiếp tục, cũng chỉ là một trong hai lựa chọn sẵn có. Nhưng liệu bạn có dám quyết định táo bạo Từ bỏ để Tiếp tục đón lấy thành công? X-Men for BOSS giới thiệu mùi hương mới X-Men for BOSS Motion - nguồn cảm hứng cho những quyết định táo bạo, dẫn bạn đến thành công.</div>
 						<div class="g-button">
-							 <a href="" class="button  hvr-pulse-grow">Sản phẩm</a>
-							 <a href="" class="button  hvr-pulse-grow">Xem thêm Facebook</a>
+							 <a href="all-cate.php" class="button  hvr-pulse-grow">Sản phẩm</a>
+							 <a target="_blank" href="https://www.facebook.com/XmenForbossVietnam/" class="button  hvr-pulse-grow">Xem thêm Facebook</a>
 						</div>
 					</div>
 					<div class="video">
 						<!-- video-->
-	                    <video autoplay="true" id="video-default" poster="images/video/poster_video1.jpg" class="video-js vjs-default-skin" controls="controls">
-	                        <source src="https://r1---sn-8qj-8j5y.googlevideo.com/videoplayback?initcwndbps=905000&ip=14.168.45.55&mime=video%2Fmp4&requiressl=yes&mn=sn-8qj-8j5y&pl=23&source=youtube&mm=31&dur=75.766&mv=m&mt=1512467862&ms=au&id=o-AEntG3kgSoypgi9C0gel1D60Fue5JIFabM4nOI02Tinq&expire=1512489562&key=yt6&lmt=1512458774881955&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ipbits=0&ratebypass=yes&itag=22&ei=-m0mWrvfA4Sm1AaquqzgDQ&signature=819D0E8DEEA8E0491E84D53614E7685AA28F6105.45030C968CF4F34751723C6AFBDDA582036DB3D5" type="video/mp4"/>
+	                    <video id="video-default" poster="images/video/poster_video1.jpg" class="video-js vjs-default-skin" controls="controls">
+	                        <source src="https://storage.googleapis.com/xmenmedia/video/XMEN_60s_Revised%20Online_04%20Dec%2017_South.mp4" type="video/mp4"/>
 	                    </video>
 	                    <!-- #end video-->
-	                    <h3 class="name">DÁM HÀNH ĐỘNG - ĐỂ THÀNH CÔNG</h3>
+	                    <h3 class="name">[QUẢNG CÁO XMEN FOR BOSS 2017] - DÁM HÀNH ĐỘNG - ĐỂ THÀNH CÔNG</h3>
 					</div>
 					<div class="clear"></div>
 					<ul class="video-list c-carousel-v has-scroll">
-						<li data-link="https://r7---sn-8pxuuxa-nboel.googlevideo.com/videoplayback?lmt=1496674978637273&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ratebypass=yes&ipbits=0&key=yt6&signature=CABBF2295B7259ED78D617973FCEF9F4CC8CAFC2.A881F58A630298A25FA2FDBAC74C7B1C5FB5C862&itag=22&ei=cG4mWsX0A8OMoAO48YTICw&pl=21&mn=sn-8pxuuxa-nboel&mm=31&source=youtube&dur=145.705&initcwndbps=680000&mime=video%2Fmp4&ip=115.78.208.28&requiressl=yes&expire=1512489680&mv=m&mt=1512467922&ms=au&id=o-AF7Eg_nDHab6Z7i_7i0uitdmjSaJrhBddZnq356c-QhV" data-poster="images/video/the-movie-buoc-thanh-bai.jpg" class="nv6">
+						<li data-link="https://storage.googleapis.com/xmenmedia/video/XMEN_60s_Revised%20Online_04%20Dec%2017_South.mp4" data-poster="images/video/the-movie-buoc-thanh-bai.jpg" class="nv6">
+	                        <div class="wp-img"><img src="images/video/thumb_video1.jpg" alt="x-men" class="img-responsive"/></div>
+	                        <div class="caption-vd">
+	                            <h4>[QUẢNG CÁO XMEN FOR BOSS 2017] - Dám hành động để thành công</h4>
+	                            <h4 class="f-m">[QUẢNG CÁO XMEN FOR BOSS 2017] - Dám hành động để thành công</h4>
+	                        </div>
+	                    </li>
+						<li data-link="https://storage.googleapis.com/xmenmedia/video/%5B%20X-Men%20For%20Boss%20%5D%5B%20The%20Movie%20%5D%20Buoc%20Thanh%20-%20Bai.mp4" data-poster="images/video/the-movie-buoc-thanh-bai.jpg" class="nv6">
 	                        <div class="wp-img"><img src="images/video/the-movie-buoc-thanh-bai-thumbnail.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">
 	                            <h4>[ X-Men For Boss ][ The Movie ] Bước Thành - Bại</h4>
 	                            <h4 class="f-m">[ X-Men For Boss ][ The Movie ] Bước Thành - Bại</h4>
 	                        </div>
 	                    </li>
-	                    <li data-link="https://r2---sn-8pxuuxa-nboe7.googlevideo.com/videoplayback?source=youtube&mn=sn-8pxuuxa-nboe7&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&requiressl=yes&ipbits=0&mm=31&ip=115.78.208.28&itag=22&ms=au&mt=1512467922&mv=m&id=o-AEyTAs577e3uuiFcdvec0PU6rohvbaIZ1TydTgKMxvxa&pl=21&ei=nG4mWq68BsX6ogOC2574CA&expire=1512489724&mime=video%2Fmp4&key=yt6&pcm2cms=yes&initcwndbps=647500&signature=39EC1DE87EAAF83A35EAABE40C30B832266A1040.D347D1A299974F6781043B5167195ED9DF83B884&ratebypass=yes&dur=6.060&lmt=1483439286432187" data-poster="images/video/xmen-for-boss-spray.jpg" class="nv6">
+	                    <li data-link="https://storage.googleapis.com/xmenmedia/video/XMEN%20for%20BOSS%20-%20Body%20Spray%20chi%20voi%2035000%20VND.mp4" data-poster="images/video/xmen-for-boss-spray.jpg" class="nv6">
 	                        <div class="wp-img"><img src="images/video/xmen-for-boss-spray-thumbnail.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">
 	                            <h4>X-Men For Boss – Body Spray chỉ với 35,000 VNĐ</h4>
 	                            <h4 class="f-m">X-Men For Boss – Body Spray chỉ với 35,000 VNĐ</h4>
 	                        </div>
 	                    </li>
-
 	                    <li data-link="https://storage.googleapis.com/xmenmedia/video/XMen_For_Boss_Buoc_Thanh_Bai.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video1.jpg" class="nv1 active">
 	                        <div class="wp-img"><img src="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/thumb_video1.jpg" alt="x-men" class="img-responsive"/></div>
 	                        <div class="caption-vd">

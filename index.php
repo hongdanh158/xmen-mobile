@@ -3,7 +3,17 @@
 		<a href="#" class="slick-arrow arrow-left"></a>
 		<a href="#" class="slick-arrow arrow-right"></a>
 		<div class="homepage slider">
-			<div class="slider-1 first-slider">
+			<div class="slider-3 section-slider">
+				<div class="content">
+					<div class="text">
+						<img src="images/text.png" alt="">
+					</div>
+					<div class="buy clear">
+						<a target="_blank" href="https://www.facebook.com/XmenForbossVietnam/" class="button hvr-pulse-grow">Tìm hiểu ngay</a>
+					</div>
+				</div>
+			</div>
+			<div class="slider-1 section-slider">
 				<div class="talent">
 					<img src="images/talent.png" alt="" class="talent">
 				</div>
@@ -71,10 +81,10 @@
 		<script>
 			$(function(){
 				$('.slider').slick({
-		            dots: true,
+		            dots: false,
 		            slidesToShow: 1,
 		            slidesToScroll: 1,
-		            // autoplay: true,
+		            autoplay: false,
 		            autoplaySpeed: 5000,
 		            speed: 200,
 		            adaptiveHeight: true,
@@ -82,7 +92,6 @@
 	            	nextArrow: '.arrow-right',
 		        });
 		        $('.slider').on('afterChange', function(event, slick, currentSlide){
-					$(this).find('.slider-product').eq()
 				});
 			});
 		</script>
@@ -197,14 +206,6 @@
 			var clss = $(this).attr('sign-class');
 			$(clss).addClass('active');
 		}, function() {
-			/* Stuff to do when the mouse leaves the element */
-			// $('.homepage  .slider-1 .product .item').each(function(index, el) {
-			// 	if($(this).hasClass('active')) {
-			// 		$(this).removeClass('active')
-			// 		var clss = $(this).attr('sign-class');
-			// 		$(clss).addClass('active')
-			// 	}
-			// });
 		});
 	});
 </script>

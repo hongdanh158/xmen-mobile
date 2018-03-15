@@ -1,0 +1,31 @@
+.homepage .slider-3 {
+    width: 100%;
+    height: 100%;
+    background: url('../images/background-3.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-3 .content {
+  width: 90%;
+  margin-top: 870px;
+  margin-left: 5%;
+  margin-bottom: 470px;
+}
+.slider-3 .text {
+  width: 100%;
+}
+.slider-3 .text img {
+  width: 100%;
+  display: block;
+}
+.slider-3 .buy {
+  margin-top: 50px;
+  text-align: center;
+}
+.c-icon-scrolldown3 {
+  bottom:  -22px;
+}
+.homepage .slider-1 .sign .image {
+  margin-bottom: 70px;
+}

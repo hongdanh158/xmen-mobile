@@ -1,3 +1,18 @@
+@media only screen and (max-width: 768px) {
+	.slider-3 .content {
+	  margin-top: 650px;
+	  margin-bottom: 470px;
+	}
+}
+@media only screen and (max-width: 700px) {
+	.homepage .slider-3 {
+	    background-size: contain;
+	}
+	.slider-3 .content {
+	  margin-top: 440px;
+	  margin-bottom: 370px;
+	}
+}
 @media only screen and (max-width: 412px) {
 	.homepage .slider-2 .space {
 	    height: 376px;
